@@ -14,11 +14,16 @@ html {
   }
 }
 
+.triple{
+  padding-left: .6rem;
+}
+
 .anim{
   animation:badass 1s linear infinite;
 }
 body{
-  background-color: rgb(235, 235, 235);
+  background-color: rgb(50, 50, 50);
+  color: white;
 }
 .navbar{
   font-size: 5rem;
@@ -51,17 +56,18 @@ body{
   display:flex;
   text-align: center;
   text-decoration: none;
+  background-color: white;
 }
 
 .steveButton:hover{
-  background-color: RGB(50,50,50);
+  background-color: rgb(93, 32, 150);
 }
 .steveButton:hover .link{
   color:white;
 }
 .link{
   margin-left: 1.8rem;
-  color: black;
+  color:black;
 }
 .double{
   margin-left: 1rem;
