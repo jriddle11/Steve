@@ -13,7 +13,7 @@ const Navbar = () => {
                 <h1>Steve:</h1><br/>
                 </div>
                 <div className='notes'>
-                <p> &emsp;&emsp;Thank you for always being such a badass guy to work with. I hope you have a merry Christmas and a happy new year. <br></br><br></br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Josh</p>
+                <p> &emsp;&emsp;Thank you for always being such a badass guy to work with. I hope you have a merry Christmas and a happy new year. <br></br><br></br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Josh</p>
             </div>
             </div>
      );
