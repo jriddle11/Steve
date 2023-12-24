@@ -18,6 +18,13 @@ html {
   padding-left: .6rem;
 }
 
+.notes{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+}
+
 .anim{
   animation:badass 1s linear infinite;
 }
