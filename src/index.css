@@ -4,8 +4,8 @@ html {
   min-height: 100%;
 }
 .steveImage{
-  height:60rem;
-  width:45em;
+  height:40rem;
+  width:30em;
 }
 
 @media screen and (max-width: 800px) {
